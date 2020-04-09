@@ -24,3 +24,4 @@ Developers, software engineers and anyone interest in.
 |---|---|---|
 | 000000 | [Entusiasme Application Project](000000_entusiasme_application.md)   | Accepted  |
 | 000001 | [Golang language](000001_golang_language.md)                         | Accepted  |
+| 000002 | [Kanban](000002_kanban.md)                         | Accepted  |
