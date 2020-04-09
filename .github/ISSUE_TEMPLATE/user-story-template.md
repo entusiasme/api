@@ -17,6 +17,8 @@ assignees: marylly
 
 *Scope*
 
+*Acceptance Criteria*
+
 *Documentation*
 
 *Additional Information*
